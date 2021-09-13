@@ -6,6 +6,7 @@ Utilities
 
 * {
     box-sizing: border-box;
+    scroll-behavior: smooth;
   }
   
   .cf::before,
@@ -241,6 +242,7 @@ Utilities
   .gallery .gallery-image {
     margin: 1em auto;
     width: 100%;
+    
   }
   
   .gallery .gallery-image img {
