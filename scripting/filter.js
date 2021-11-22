@@ -97,6 +97,15 @@ let projects = [
       description: "Pokedex",
       githubURL: "https://github.com/nathangiose/Pokedex-js",
       liveProjectURL: "https://agitated-leavitt-d0d026.netlify.app/"
+    },
+    {
+      imgURL: "https://media.giphy.com/media/L3JsXA0dO77ZUswick/giphy.gif",
+      imgALT: "Motion Detector",
+      title: "Motion Detector",
+      techStack: "JavaScript",
+      description: "This allows the your camera to detect hands and faces",
+      githubURL: "https://github.com/nathangiose/HandMotion_Face_Detector",
+      liveProjectURL: "https://nathandetection.netlify.app/"
     }
   ];
   
